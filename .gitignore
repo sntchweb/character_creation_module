@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my trash
+__pycahce__/
+Untitled-1.py
+.edia/
+.vscode/
